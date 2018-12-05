@@ -4,7 +4,7 @@ A significant proportion of plant species are polyploids, with ploidy levels som
 
 Based on the genotypic frequencies for polysomic inheritance under double-reduction, we developed a model to estimate allele frequency and infer the ploidy status of individuals from the ambiguous genotype (i.e. electrophoresis bandtype) of codominant genetic markers. This software also accounts for the null alleles and negative amplification. 
 
-Download: https://github.com/huangkang1987/ploidyinfer/raw/master/PloidyInferV1.2.zip
+Download: https://github.com/huangkang1987/ploidyinfer/raw/master/PloidyInferV1.2b.zip
 
 Citation: to be added after publication.
 
