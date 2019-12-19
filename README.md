@@ -7,7 +7,7 @@ Based on the genotypic frequencies for polysomic inheritance under double-reduct
 Download: https://github.com/huangkang1987/ploidyinfer/raw/master/PloidyInferV1.3.zip
 
 Citation: 
-Huang K, Dunn DW, Li ZH, Zhang P, Dai Y, Li BG (2019) Inference of individual ploidy level using codominant markers. Molecular Ecology Resources. doi:10.1111/1755-0998.13032. https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13032
+Huang K, Dunn DW, Li ZH, Zhang P, Dai Y, Li BG* (2019) Inference of individual ploidy level using codominant markers. Molecular Ecology Resources, 19, 1218-1229. http://dx.doi.org/10.1111/1755-0998.13032
 
 Bug report and suggestions
 
